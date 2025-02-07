@@ -8,7 +8,7 @@ The dataset used for this project is the **Mental Health in Tech Survey**, which
 
 ## Preprocessing Steps
 1. **Handling Missing Values** - Missing data is imputed or removed.
-2. **Encoding Categorical Variables** - Categorical features are converted into numerical representations using one-hot encoding.
+2. **Encoding Categorical Variables** - Categorical features are converted into numerical representations using label encoding.
 3. **Feature Scaling** - Standardization is applied to ensure uniformity across features.
 4. **Feature Selection** - Irrelevant or redundant features are removed to optimize performance.
 5. **Train-Test Split** - The dataset is split into training and testing subsets.
