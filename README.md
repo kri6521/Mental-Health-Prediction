@@ -31,7 +31,10 @@ Each model is evaluated using:
 ## Model Explainability
 To enhance interpretability, **Local Interpretable Model-agnostic Explanations (LIME)** is used to provide insights into individual predictions.
 
-
+## Running the Web UI (Streamlit App)
+To use the interactive web-based UI:
+- Run "streamlit run app.py" in the terminal
+This will launch a web application where the user will get the output based on their input symptons.
 
 
 
