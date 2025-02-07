@@ -37,6 +37,8 @@ To use the interactive web-based UI:
 
 This will launch a web application where the user will get the output based on their input symptons.
 
+## Report on LLM Experimentation Can be Seen [Here](https://docs.google.com/document/d/1DXcLIiOPVwPwLUHLI4pOqboWF2w5g5ksls4l15v-1PQ/edit?usp=sharing)
+
 
 
 
