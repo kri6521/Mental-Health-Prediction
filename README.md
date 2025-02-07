@@ -15,11 +15,11 @@ Link -: https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
 4. **Feature Selection** - Irrelevant or redundant features are removed to optimize performance.
 5. **Train-Test Split** - The dataset is split into training and testing subsets.
 
-## Machine Learning Models Used
+## Models Used
 The following models have been implemented and evaluated:
 - **Logistic Regression**
 - **Random Forest Classifier**
-- **XGBoost Classifier**
+- **Neural Network**
 
 ## Model Evaluation
 Each model is evaluated using:
