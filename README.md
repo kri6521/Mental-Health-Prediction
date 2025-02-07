@@ -6,6 +6,8 @@ This project aims to develop a Self-Analysis Mental Health Model to predict ment
 ## Dataset
 The dataset used for this project is the **Mental Health in Tech Survey**, which includes responses from individuals about their mental health conditions, workplace environment, and demographic details. Data preprocessing steps have been applied to ensure data quality and improve model performance.
 
+Link -: https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
+
 ## Preprocessing Steps
 1. **Handling Missing Values** - Missing data is imputed or removed.
 2. **Encoding Categorical Variables** - Categorical features are converted into numerical representations using label encoding.
