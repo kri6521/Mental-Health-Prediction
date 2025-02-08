@@ -1,50 +1,53 @@
-# Mental-Health-Prediction
+🌿 Mental Health Prediction
+📝 Overview
+This project aims to develop a Self-Analysis Mental Health Model to predict mental health conditions based on user-provided symptoms. Built using machine learning techniques, the model emphasizes accuracy, interpretability, and efficiency.
 
-## Overview
-This project aims to develop a Self-Analysis Mental Health Model to predict mental health conditions based on user-provided symptoms. The model is built using various machine learning techniques and includes interpretability features to enhance transparency.
+📊 Dataset
+The dataset used is the Mental Health in Tech Survey, which includes responses related to mental health conditions, workplace environments, and demographic details.
 
-## Dataset
-The dataset used for this project is the **Mental Health in Tech Survey**, which includes responses from individuals about their mental health conditions, workplace environment, and demographic details. Data preprocessing steps have been applied to ensure data quality and improve model performance.
+🔗 Dataset Link: Kaggle - Mental Health in Tech Survey
 
-Link -: https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
+🔧 Data Preprocessing
+To ensure high data quality, the following preprocessing steps were applied:
+✅ Handling Missing Values – Imputed or removed missing data.
+✅ Encoding Categorical Variables – Used label encoding for categorical features.
+✅ Feature Scaling – Standardized numerical features for consistency.
+✅ Feature Selection – Removed irrelevant/redundant features.
+✅ Train-Test Split – Divided the dataset into training and testing sets.
 
-## Preprocessing Steps
-1. **Handling Missing Values** - Missing data is imputed or removed.
-2. **Encoding Categorical Variables** - Categorical features are converted into numerical representations using label encoding.
-3. **Feature Scaling** - Standardization is applied to ensure uniformity across features.
-4. **Feature Selection** - Irrelevant or redundant features are removed to optimize performance.
-5. **Train-Test Split** - The dataset is split into training and testing subsets.
+🤖 Machine Learning Models Used
+The following models were trained and evaluated:
+🔹 Logistic Regression (Final Model) ✅
+🔹 Random Forest Classifier
+🔹 Neural Network
 
-## Models Used
-The following models have been implemented and evaluated:
-- **Logistic Regression**
-- **Random Forest Classifier**
-- **Neural Network**
-#### Model Chosed
-- **Logistic Regression**
+📌 Why Logistic Regression?
 
-## Model Evaluation
-Each model is evaluated using:
-- **Accuracy**
-- **Precision, Recall, and F1-score**
-- **Confusion Matrix**
-- **ROC-AUC Score**
+Balanced accuracy and interpretability.
+Suitable for binary classification tasks.
+📈 Model Evaluation
+Each model was assessed using:
+📌 Accuracy – Overall performance.
+📌 Precision, Recall, & F1-score – Performance on positive/negative cases.
+📌 Confusion Matrix – Breakdown of correct vs. incorrect predictions.
+📌 ROC-AUC Score – Classification effectiveness.
 
-## Model Explainability
-To enhance interpretability, **Local Interpretable Model-agnostic Explanations (LIME)** is used to provide insights into individual predictions.
+🧐 Model Explainability
+To enhance transparency, Local Interpretable Model-agnostic Explanations (LIME) was used to interpret predictions, helping users understand model decisions.
 
-## Report on LLM Experimentation 
-Click [Here](https://docs.google.com/document/d/1DXcLIiOPVwPwLUHLI4pOqboWF2w5g5ksls4l15v-1PQ/edit?usp=sharing) to view.
+📄 Report on LLM Experimentation
+🔗 Click Here to view the detailed report.
 
-## Running the Web UI (Streamlit App)
-To use the interactive web-based UI:
-- Run **streamlit run app.py** in the terminal.
+🌐 Running the Web UI (Streamlit App)
+To use the interactive web UI, run the following command in the terminal:
 
-This will launch a web application where the user will get the output based on their input symptons.
+bash
+Copy
+Edit
+streamlit run app.py
+🚀 This will launch a web-based application where users can input symptoms and receive predictions.
 
-## 📽Video Demonstration
-- Click [Here](https://drive.google.com/file/d/1-XVn7GmRxqxC1-NOO9ZGYV7ia7xYVcfe/view?usp=drivesdk ) to view.
+🎬 Video Demonstration
+📽 Watch the demo: Click Here
 
-Sorry for the watermark🙃
-
-
+(Apologies for the watermark! 🙃)
