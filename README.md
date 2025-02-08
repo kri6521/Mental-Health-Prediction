@@ -1,7 +1,7 @@
 # 🌿 Mental Health Prediction
 
 ## 📝 Overview  
-This project aims to develop a **Self-Analysis Mental Health Model** to predict mental health conditions based on user-provided symptoms. Built using **machine learning techniques**, the model emphasizes **accuracy, interpretability, and efficiency**.  
+This project aims to develop a **Self-Analysis Mental Health Model** to predict mental health conditions based on user-provided symptoms. Built using **machine and deep learning techniques**, the model emphasizes **accuracy, interpretability, and efficiency**.  
 
 ---
 
@@ -23,7 +23,7 @@ To ensure high data quality, the following preprocessing steps were applied:
 
 ---
 
-## 🤖 Machine Learning Models Used  
+## 🤖 Models Used For Testing 
 The following models were trained and evaluated:  
 
 - 🔹 **Logistic Regression** (Final Model) ✅  
