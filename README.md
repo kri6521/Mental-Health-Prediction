@@ -61,3 +61,11 @@ To use the interactive web UI, run the following command in the terminal:
 
 ```bash
 streamlit run app.py
+```
+---
+
+## 🎬 Video Demonstration  
+
+📽 **Watch the demo:** [Click Here](https://drive.google.com/file/d/1-XVn7GmRxqxC1-NOO9ZGYV7ia7xYVcfe/view?usp=drivesdk)  
+
+_(Apologies for the watermark! 🙃)_  
