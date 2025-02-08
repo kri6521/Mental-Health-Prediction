@@ -20,6 +20,8 @@ The following models have been implemented and evaluated:
 - **Logistic Regression**
 - **Random Forest Classifier**
 - **Neural Network**
+#### Model Chosed
+- **Logistic Regression**
 
 ## Model Evaluation
 Each model is evaluated using:
