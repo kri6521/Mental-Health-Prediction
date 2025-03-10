@@ -60,7 +60,7 @@ To enhance transparency, **Local Interpretable Model-agnostic Explanations (LIME
 To use the interactive web UI, run the following command in the terminal:  
 
 ```bash
-streamlit run Mental-Health-Prediction/blob/main/mental_health_ui/app.py
+streamlit run app.py
 ```
 ---
 
